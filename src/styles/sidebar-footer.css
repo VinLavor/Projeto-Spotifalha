@@ -1,5 +1,6 @@
 body{
     background-color: rgb(83, 172, 71);
+    font-family: var(--font--dm-sans);
 }
 
 .logo img{
@@ -44,7 +45,7 @@ body{
     text-decoration: none;
     font-weight: 600;
     font-size: 14px;
-    font-family:"DM Sans",sans-serif;
+    
 
 }
 .biblioteca{
@@ -71,7 +72,6 @@ body{
     border: 0px;
     font-size: 14px;
     font-weight: 700px;
-    font-family: "DM Sans" sans-serif;
     text-align: center;
     text-decoration: none;
     text-transform: none;
@@ -109,17 +109,14 @@ body{
 .section-playlist__conteudo .text{
     padding-bottom: 14px;
     color:#fff;
-    font-family: "DM Sans" sans-serif;
 
 }
 .section-playlist .section-playlist__conteudo .title{
     font-weight: 700;
-    font-family: "DM Sans" sans-serif;
 }
 .section-playlist__conteudo .subtitle{
     font-weight: 500px;
     font-size: 12px;
-    font-family: "DM Sans" sans-serif;
 }
 .section-playlist__conteudo .section-playlist__botao{
     background-color: #fff;
@@ -129,7 +126,6 @@ body{
     display:flex;
     justify-content: center;
     font-weight: bold;
-    font-family: "DM Sans"sans-serif;
     text-decoration: none;
     text-transform: none;
     padding: 10px;
