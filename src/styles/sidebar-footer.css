@@ -200,3 +200,27 @@ footer{
     cursor: pointer;
     flex-shrink: 0;
 }
+.sidebar .sidebar__navigation a:hover {
+    transform: scale(1.04);
+    color: var(--text-base-light);
+  }
+.biblioteca .biblioteca__conteudo button:hover{
+    transform: scale(1.04);
+    color: var(--text-base-light);
+}
+.fa-plus:hover{
+    transform: scale(1.04);
+    color: var(--text-base-light);
+}
+.section-playlist__botao:hover{
+    transform: scale(1.04);
+    color: var(--text-base-dark);
+}
+.linguagens__botao:hover{
+    transform: scale(1.04);
+    color: var(--text-base-light);
+}
+.disclaimer-premium button:hover{
+    transform: scale(1.04);
+    color: var(--text-base-dark);
+}
